@@ -9,7 +9,7 @@ llm = HuggingFaceEndpoint(
     repo_id="mistralai/Mistral-7B-Instruct-v0.3",
     huggingfacehub_api_token=os.getenv("HUGGINGFACEHUB_API"), # Fixed name
     task="text-generation",
-    max_new_tokens=512, # Fixed 's' at the end
+    max_new_tokens=512,
     temperature=0.1
 )
 
