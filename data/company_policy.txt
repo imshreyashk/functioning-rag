@@ -1,0 +1,21 @@
+''''''
+ACME COMPANY POLICIES
+ 
+REFUND POLICY
+Customers may return any product within 30 days of purchase for a full refund.
+Items must be in original condition. Digital products cannot be refunded.
+To initiate a refund, contact support@acme.com with your order number.
+Refunds are processed within 5-7 business days.
+ 
+SHIPPING POLICY
+Standard shipping takes 5-7 business days within the United States.
+Express shipping (2-day) costs $15 and is available for orders over $50.
+International shipping takes 10-14 business days.
+Free shipping applies to all orders over $75.
+ 
+PRIVACY POLICY
+We collect name, email, and purchase history to process orders.
+We never sell customer data to third parties.
+You can request deletion of your data by emailing privacy@acme.com.
+All data is encrypted using AES-256 standard.
+''''''
