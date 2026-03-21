@@ -1,0 +1,24 @@
+[project]
+name = "my-rag-system"
+version = "0.1.0"
+description = "A RAG system using Google Gemini, Langchain, and ChromaDB"
+readme = "README.md"
+requires-python = ">-3.11"
+dependencies = [
+    "langchain==0.2.16",
+    "langchain-google-genai==1.0.10",
+    "langchain-community==0.2.16",
+    "langchain-chroma==0.1.4",
+    "chromadb==0.5.5",
+    "pypdf==4.3.1",
+    "python-dotenv==1.0.1",
+    "faiss-cpu==1.13.2",
+    "sentence-transformers==3.0.1",
+]
+
+[build-system]
+requies = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["app]
